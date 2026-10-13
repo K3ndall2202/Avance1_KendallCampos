@@ -1,6 +1,6 @@
 Sistema de Gestión de Estudiantes
 
-Programación II — Primer avance
+Primer avance Programación II 
 
 Este proyecto consiste en el desarrollo de un Sistema de Gestión de Estudiantes utilizando C# y Windows Forms en Visual Studio. Su objetivo es facilitar la organización de la información de los estudiantes, sus materias y calificaciones.
 
